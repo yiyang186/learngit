@@ -2,4 +2,6 @@
 *.pyc
 *.so
 *.egg-info
+*.vsd
+~*
 build
