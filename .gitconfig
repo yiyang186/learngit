@@ -1,0 +1,7 @@
+[alias]
+co = checkout
+st = status
+
+[user]
+name = yiyang186
+email = yiyang186@gmail.com
